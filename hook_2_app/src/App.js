@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Elevator from './Elevator';
+import Menu from './Menu';
 
 function App() {
   return (
     <div className="App">
-     <Elevator></Elevator>
-        
+      <Menu></Menu>
     </div>
   );
 }
